@@ -1,0 +1,3 @@
+#! /bin/bash 
+
+ls --format=comma -t | sed 's/ //g'
