@@ -1,4 +1,4 @@
-# Piscine Go curriculum 01Founders
+z# Piscine Go curriculum 01Founders
 
 ---
 
@@ -213,7 +213,7 @@ Videos:
 
 Exercices:
 
-- [bool](https://github.com/01-edu/public/tree/master/subjects/bool/README.md)
+- [boolean](https://github.com/01-edu/public/tree/master/subjects/boolean/README.md)
 - [point](https://github.com/01-edu/public/tree/master/subjects/point/README.md)
 - [displayfile](https://github.com/01-edu/public/tree/master/subjects/displayfile/README.md)
 - [cat](https://github.com/01-edu/public/tree/master/subjects/cat/README.md)
